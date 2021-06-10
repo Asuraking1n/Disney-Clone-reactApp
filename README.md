@@ -1,4 +1,14 @@
 This is the full dynamic clone of Disney+  App with complete google authentication.
+made with 
+
+1-react.js
+
+2-styled components
+
+3-redux
+
+4-firebase
+
 
 ## TO view the full app
 
